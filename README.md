@@ -1,4 +1,6 @@
 # LSTMuse: An AI-Powered Melody Generator
+![LSTMUSE](https://github.com/user-attachments/assets/45abc6d1-09a3-4b80-930a-8e2255d6af32)
+
 
 LSTMuse is a deep learning project that generates unique melodies in various musical styles. It leverages Long Short-Term Memory (LSTM) neural networks, a type of recurrent neural network well-suited for sequential data like music. The project is designed to be adaptable, allowing for training on different datasets to explore various musical genres and influences.
 
