@@ -38,7 +38,7 @@ Ensure your musical data is in a compatible format (e.g., MIDI or MusicXML) and 
 
 ### Train the Model (Optional)
 
-To train on a new dataset, modify the configuration settings in `train.py` and run the script.
+To train on a new dataset, modify the configuration settings in ``train.py`` and run the script.
 
 ### Generate Melodies
 
