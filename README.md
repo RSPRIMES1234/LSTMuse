@@ -1,4 +1,4 @@
-# LSTMuse:An AI-Powered Melody Generator
+# LSTMuse:An AI-Powered Melody Generator  
 ![LSTMUSE](https://github.com/user-attachments/assets/45abc6d1-09a3-4b80-930a-8e2255d6af32)
 
 
