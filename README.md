@@ -18,7 +18,7 @@ LSTMuse is a deep learning project that generates unique melodies in various mus
 - **Model Architecture:** Customizable LSTM model with options for adjusting layers, units, and hyperparameters.
 - **Dataset:** Can be trained on various datasets of symbolic music representations.
 
-## Getting Startedd
+## Getting Started
 
 ### Clone the Repository:
 
